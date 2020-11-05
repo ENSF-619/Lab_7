@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Client_A.cpp
+  Client_B.cpp
+  LoginServer.cpp
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_7\Lab_7_C++\Exercise_D\LoginServer.cpp(22,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_7\Lab_7_C++\Exercise_D\LoginServer.cpp(37,19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Exercise_D.vcxproj -> C:\Users\zchem\OneDrive\Desktop\University\courses\Fall-2020\ENSF 619\Labs\Lab_7\Lab_7_C++\Debug\Exercise_D.exe
