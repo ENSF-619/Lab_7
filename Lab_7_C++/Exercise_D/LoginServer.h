@@ -1,3 +1,9 @@
+/*
+* LoginServer.h
+* Lab 7, Exercise D
+* By: Ziad Chemali & Lotfi Hasni
+* Submission: November 6, 2020
+*/
 #pragma once
 #ifndef LoginServer_h
 #define LoginSErver_h

@@ -6,6 +6,12 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 
+/*
+ * ColouredFrameDecorator.java
+ * Lab:7-Exercise B & C
+ * Completed by: Ziad Chemali and Lotfi Hasni
+ * Submission DAte: November 6 ,2020
+ */
 public class ColouredFrameDecorator extends Decorator {
 protected int thickness;
 	public ColouredFrameDecorator(Component t, int x, int y, int width, int height, int thickness) {

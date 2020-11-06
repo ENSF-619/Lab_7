@@ -4,7 +4,12 @@ import java.awt.Font;
 import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-
+/*
+ * DemoDecoratorPattern.java
+ * Lab:7-Exercise B & C
+ * Completed by: Ziad Chemali and Lotfi Hasni
+ * Submission DAte: November 6 ,2020
+ */
 public class DemoDecoratorPattern extends JPanel {
 	Component t;
 	

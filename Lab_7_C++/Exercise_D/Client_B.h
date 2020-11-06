@@ -1,5 +1,9 @@
-#pragma once
-#pragma once
+/*
+* Client_B.h
+* Lab 7, Exercise D
+* By: Ziad Chemali & Lotfi Hasni
+* Submission: November 6, 2020
+*/
 #ifndef ClientB_h
 #define ClientB_h
 #include"LoginServer.h"

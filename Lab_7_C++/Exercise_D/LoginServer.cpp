@@ -1,3 +1,11 @@
+/*
+* LoginServer.cpp
+* Lab 7, Exercise D
+* By: Ziad Chemali & Lotfi Hasni
+* Submission: November 6, 2020
+*/
+
+
 #include "LoginServer.h"
 #include<iostream>
 LoginServer::LoginServer()

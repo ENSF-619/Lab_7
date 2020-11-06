@@ -4,7 +4,12 @@ import java.awt.BasicStroke;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
-
+/*
+ * BorderDecorator.java
+ * Lab:7-Exercise B & C
+ * Completed by: Ziad Chemali and Lotfi Hasni
+ * Submission DAte: November 6 ,2020
+ */
 public class BorderDecorator extends Decorator{
 
 	public BorderDecorator(Component t, int x, int y, int width, int height) {

@@ -1,10 +1,15 @@
-//
-//  main.cpp
-//  SigletonPattern
-//
+/*
+* main.cpp
+* Lab 7, Exercise D
+* By: Ziad Chemali & Lotfi Hasni
+* Submission: November 6, 2020
+*/
+
 #include "Client_A.h"
 #include "Client_B.h"
+
 #include <iostream>
+
 using namespace std;
 
 int main() {

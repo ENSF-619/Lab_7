@@ -1,7 +1,12 @@
 package exerciseA;
 
 import java.util.ArrayList;
-
+/*
+ * ThreeColumnTable_Observer.java
+ * Lab:7 Exercise A
+ * Completed by: Ziad Chemali and Lotfi Hasni
+ * Submission DAte: November 6 ,2020
+ */
 public class ThreeColumnTable_Observer implements Observer {
 ArrayList<Double> array;
 private DoubleArrayListSubject mydata;

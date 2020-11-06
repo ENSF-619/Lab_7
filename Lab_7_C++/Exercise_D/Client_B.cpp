@@ -1,3 +1,10 @@
+/*
+* Client_B.cpp
+* Lab 7, Exercise D
+* By: Ziad Chemali & Lotfi Hasni
+* Submission: November 6, 2020
+*/
+
 #include "Client_B.h"
 
 void Client_B::add(string username, string password)
